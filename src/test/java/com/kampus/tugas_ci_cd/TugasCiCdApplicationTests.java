@@ -1,0 +1,13 @@
+package com.kampus.tugas_ci_cd;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class TugasCiCdApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
